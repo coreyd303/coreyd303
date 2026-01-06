@@ -1,16 +1,18 @@
-## Hi there 👋
+## Senior iOS Engineer | Open Source Maintainer
 
-<!--
-**coreyd303/coreyd303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff-level iOS engineer with 10+ years of experience building and scaling production iOS applications.
+Focused on Swift, SwiftUI, Swift Concurrency, and testable app architecture.
 
-Here are some ideas to get you started:
+### Open Source
+🚀 **Navigable**  
+A SwiftUI navigation framework designed for testability and architectural clarity  
+- Built to support large, modular iOS codebases
+- Reduces navigation-related bugs and improves unit test coverage
+- Actively maintained and used in production
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [https://github.com/coreyd303/navigable](https://github.com/coreyd303/Navigable-SwiftUI)
+
+### Interests
+- Swift Concurrency & async architecture
+- Scalable mobile systems
+- Developer experience and tooling
