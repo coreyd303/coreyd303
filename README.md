@@ -1,4 +1,4 @@
-## Senior iOS Engineer | Open Source Maintainer
+## Staff iOS Engineer & Architect | Open Source Maintainer
 
 Staff-level iOS engineer with 10+ years of experience building and scaling production iOS applications.
 Focused on Swift, SwiftUI, Swift Concurrency, and testable app architecture.
